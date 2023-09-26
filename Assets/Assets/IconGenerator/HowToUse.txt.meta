@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: 843747969520b524bb0f9e6e55cb14b7
+TextScriptImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113946
+  packageName: Icon Generator - Generate icons from prefabs
+  packageVersion: 2.1
+  assetPath: Assets/IconGenerator/HowToUse.txt
+  uploadId: 304245

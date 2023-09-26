@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 90b532ff1df3dea40b56dae3f8d24125
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113946
+  packageName: Icon Generator - Generate icons from prefabs
+  packageVersion: 2.1
+  assetPath: Assets/IconGenerator/IconGenerator.cs
+  uploadId: 304245

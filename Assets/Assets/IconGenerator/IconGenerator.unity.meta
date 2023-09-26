@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: eeb59d93c93222344aa00dc750448d8e
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 113946
+  packageName: Icon Generator - Generate icons from prefabs
+  packageVersion: 2.1
+  assetPath: Assets/IconGenerator/IconGenerator.unity
+  uploadId: 304245
